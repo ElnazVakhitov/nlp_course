@@ -81,3 +81,8 @@ cc.*
 *.txt
 *.tsv
 *.vec
+*.json
+*.csv
+*.gz
+*.ru
+*.en
